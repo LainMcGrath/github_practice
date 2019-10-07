@@ -1,1 +1,1 @@
-puts "This is git practice."
+puts "We are practicing git commands."
